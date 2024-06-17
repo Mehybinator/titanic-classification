@@ -5,19 +5,14 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-        <a href="#built-with">Built With</a>
-    </li>
-    <li>
-        <a href="#prerequisites">Prerequisites</a>
-        <a href="#installation">Installation</a>
-    </li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
-### Built With
+## Built With
 
 * ![Python][Python]
 * ![Pandas][Pandas]
@@ -25,7 +20,7 @@
 * ![Scikit-Learn][Scikit-Learn]
 
 <!-- GETTING STARTED -->
-### Prerequisites
+## Prerequisites
 
 Initialize a New Python Environment:
 ```sh
