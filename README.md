@@ -1,5 +1,3 @@
-<a name="readme-top"></a>
-
 <!-- PROJECT LOGO -->
 <h1 align="center">Titanic Classification Practice</h1>
 
@@ -8,17 +6,11 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+        <a href="#built-with">Built With</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+        <a href="#prerequisites">Prerequisites</a>
+        <a href="#installation">Installation</a>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -31,10 +23,6 @@
 * ![Pandas][Pandas]
 * ![Matplotlib][Matplotlib]
 * ![Scikit-Learn][Scikit-Learn]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ### Prerequisites
@@ -69,15 +57,11 @@ Alternatively If The Env Is Not Active:
 
 This Will Make A Submition File With The Predictions And Save A Photo Of The Tree.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 Mehran Arkak - mehran.arkak@protonmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 [Python]: https://img.shields.io/badge/Python-EEEEEE?style=for-the-badge&logo=python
 [Pandas]: https://img.shields.io/badge/Pandas-EEEEEE?style=for-the-badge&logo=python
 [Matplotlib]: https://img.shields.io/badge/Matplotlib-EEEEEE?style=for-the-badge&logo=python
-[Scikit-Learn]: https://img.shields.io/badge/Scikit-Learn-EEEEEE?style=for-the-badge&logo=python
+[Scikit-Learn]: https://img.shields.io/badge/Scikit--Learn-EEEEEE?style=for-the-badge&logo=python
